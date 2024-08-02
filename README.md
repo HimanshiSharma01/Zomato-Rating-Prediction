@@ -55,9 +55,9 @@ Two machine learning models were employed to predict restaurant ratings:
      - Root Mean Squared Error (RMSE): 0.1338
      - Mean Absolute Error (MAE): 0.0655
 
-** The Random Forest model outperformed the Decision Tree model, indicating a better fit and higher accuracy in predicting restaurant ratings.**
+** The Random Forest model outperformed the Decision Tree model, indicating a better fit and higher accuracy in predicting restaurant ratings. **
 
-** Feature Importance:**
+** Feature Importance: **
 The Random Forest model provided insights into the importance of various features:
 - Votes: 35.63% importance, indicating a strong correlation between the number of votes and ratings.
 - Cost: 11.10% importance, suggesting the price range significantly impacts ratings.
